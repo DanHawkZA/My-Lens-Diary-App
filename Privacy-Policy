@@ -1,0 +1,233 @@
+# Privacy Policy
+
+**Lensiary – Contact Lens Manager & Tracker**
+
+**Effective Date:** 19 July 2026
+
+Thank you for using **Lensiary** ("the App"). Your privacy is important to us. Lensiary has been designed with a privacy-first approach, keeping your personal information on your device wherever possible.
+
+This Privacy Policy explains what information the App collects, how it is used, and how it is protected.
+
+By using Lensiary, you agree to this Privacy Policy.
+
+---
+
+# 1. Developer
+
+Lensiary is developed and published by **Daniel Hawkins**.
+
+For privacy-related questions, please contact:
+
+**Email:** bcdhawkins@me.com
+
+---
+
+# 2. Information We Collect
+
+Lensiary only collects information necessary to provide the features you choose to use.
+
+Depending on your use of the App, you may choose to provide:
+
+- Contact lens prescriptions
+- Lens brand and product information
+- Lens inventory
+- Lens insertion and removal times
+- Lens wear history
+- Comfort, irritation and symptom logs
+- Personal notes
+- App preferences and settings
+
+When you choose to log certain events, Lensiary may also request access to your location in order to retrieve local environmental conditions from Apple's WeatherKit service.
+
+These environmental conditions may include:
+
+- Temperature
+- Humidity
+- Air Quality
+- Other weather conditions made available by Apple WeatherKit
+
+The environmental information is stored alongside the event to help you identify patterns between your contact lens comfort and your surroundings.
+
+---
+
+# 3. How Your Information Is Stored
+
+Lensiary is designed so that your information remains under your control.
+
+Your contact lens information, wear history and logged events are stored locally on your Apple device using Apple's secure storage technologies.
+
+If you enable iCloud synchronisation, your information may also be securely synchronised through your personal Apple account using Apple's CloudKit infrastructure.
+
+The developer does not have access to your personal data stored on your device or within your personal iCloud account.
+
+---
+
+# 4. Apple Intelligence
+
+Lensiary may make use of Apple Intelligence features to provide helpful insights, predictions and summaries.
+
+Where supported by Apple, these features operate on your device whenever possible.
+
+Lensiary does not use Apple Intelligence to profile users or share personal information with the developer.
+
+---
+
+# 5. Siri and App Intents
+
+Lensiary supports Siri and App Intents to allow hands-free interaction with the App.
+
+When you choose to use Siri, your requests are processed by Apple in accordance with Apple's own Privacy Policy.
+
+The developer does not receive recordings of your voice commands.
+
+---
+
+# 6. Location Information
+
+Lensiary requests access to your location only when you choose to log specific events, such as:
+
+- Inserting contact lenses
+- Removing contact lenses
+- Recording comfort or irritation
+
+Your location is used solely to retrieve local environmental conditions from Apple's WeatherKit service.
+
+Lensiary does **not** use your location to:
+
+- Track your movements
+- Build a history of your locations
+- Share your location with third parties
+- Deliver advertising
+- Sell location information
+
+Lensiary stores the environmental conditions associated with the event. The App is designed to minimise retention of precise location information wherever possible.
+
+Location access is optional and can be disabled at any time in iOS Settings. The App will continue to function normally without location access, although environmental conditions will not be recorded.
+
+---
+
+# 7. Camera and Photos
+
+If you choose to scan contact lens packaging or attach photographs, Lensiary will request permission to access your camera or photo library.
+
+These images are used only for the features you request.
+
+---
+
+# 8. Notifications
+
+If enabled, Lensiary may send notifications relating to:
+
+- Lens replacement reminders
+- Wear duration reminders
+- Inventory reminders
+- Other reminders you configure
+
+Notification permissions may be changed at any time in iOS Settings.
+
+---
+
+# 9. Health Information
+
+Lensiary allows you to record information relating to your contact lens use and comfort.
+
+Lensiary is **not** a medical device.
+
+The App does **not** provide medical advice, diagnosis or treatment.
+
+Any health-related information you record is intended solely to help you manage your contact lens usage and identify personal trends.
+
+Always consult a qualified eye care professional regarding medical concerns.
+
+---
+
+# 10. Analytics
+
+At launch, Lensiary does not use third-party analytics services, advertising networks or user profiling.
+
+Should anonymous analytics be introduced in a future release, this Privacy Policy will be updated before those features become available.
+
+---
+
+# 11. Advertising
+
+Lensiary does not display third-party advertising.
+
+Lensiary does not use advertising identifiers.
+
+Lensiary does not sell your personal information.
+
+---
+
+# 12. Sharing Your Information
+
+Lensiary does not sell, rent or share your personal information with third parties.
+
+Information is shared only where necessary to provide Apple platform functionality that you choose to use, including:
+
+- iCloud (CloudKit)
+- Apple Intelligence
+- Siri
+- WeatherKit
+
+These Apple services are governed by Apple's own Privacy Policy.
+
+---
+
+# 13. Data Retention
+
+Information stored locally remains on your device until:
+
+- You delete it
+- You delete the App
+- You erase your device
+
+If you use iCloud synchronisation, Apple manages your synchronised data according to Apple's own policies.
+
+---
+
+# 14. Your Rights
+
+You remain in control of your information.
+
+You may:
+
+- View your information
+- Edit your information
+- Delete individual records
+- Delete all stored information
+- Remove the App at any time
+
+---
+
+# 15. Children's Privacy
+
+Lensiary is not intended for children under the age of 13.
+
+The App does not knowingly collect personal information from children.
+
+---
+
+# 16. Security
+
+Lensiary uses Apple's security technologies and reasonable technical measures to protect your information.
+
+However, no electronic storage or transmission method can be guaranteed to be completely secure.
+
+---
+
+# 17. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time.
+
+Any updates will be reflected by revising the Effective Date at the top of this document.
+
+---
+
+# 18. Contact
+
+If you have any questions regarding this Privacy Policy, please contact:
+
+**Daniel Hawkins**
+
+Email: privacy@YOURDOMAIN.com
